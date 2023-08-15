@@ -17,8 +17,8 @@ const transporter = nodemailer.createTransport({
     secure: true,
     auth: {
       // TODO: replace `user` and `pass` values from <https://forwardemail.net>
-      user: 'wwwghimiresagar88@gmail.com',
-      pass: 'qdbmhqptosivcdzb'
+      user: 'www@gmail.com',
+      pass: 'qdb'
     }
   });
 
@@ -42,6 +42,6 @@ const transporter = nodemailer.createTransport({
 }
 //   main().catch(console.error);
 
-const sender = ["wwwghimiresagar88@gmail.com", "s.g.devil.88@gmail.com"];
+const sender = ["wwwggmail.com", "huhgmail.com"];
   main(sender) 
 
